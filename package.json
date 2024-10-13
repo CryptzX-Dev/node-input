@@ -1,0 +1,11 @@
+{
+  "name": "@cryptzx-dev/node-input",
+  "version": "1.0.1",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "CryptzX",
+  "license": "ISC"
+}
