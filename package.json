@@ -1,11 +1,15 @@
 {
   "name": "@cryptzx-dev/node-input",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "null",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "author": "CryptzX",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CryptzX-Dev/node-input.git"
+  }
 }
